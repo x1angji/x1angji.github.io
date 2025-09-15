@@ -1,0 +1,30 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"seifuku.moc",
+	"textures":[
+		"seifuku.1024/L2DMSR_U_00.png",
+		"seifuku.1024/L2DMSR_U_01.png",
+		"seifuku.1024/L2DMSR_U_02.png"
+	],
+	"lip_sync": "false",
+	"layout": {
+		"center_x":0.0,
+        "center_y":-0.05,
+        "width":2.0
+	},
+	"hit_areas_custom":{
+        "head_x":[-0.3, 1.12],
+        "head_y":[0.26, 0.56],
+        "body_x":[-0.41, 0.58],
+        "body_y":[0.46, -1.12]
+    },
+	"motions":{
+		"idle":[
+			{
+				"file":"seifuku.motions/motion9.mtn"
+			}
+		]
+	},
+	"physics":"physics.json",
+	"pose":"seifuku.pose.json"
+}

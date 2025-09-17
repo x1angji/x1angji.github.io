@@ -4,13 +4,54 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2025/05/17/hello-world/"/>
-      <url>/2025/05/17/hello-world/</url>
+      <title>笔记本氮化镓电源使用指北</title>
+      <link href="/2024/10/28/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%B0%AE%E5%8C%96%E9%95%93%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/"/>
+      <url>/2024/10/28/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%B0%AE%E5%8C%96%E9%95%93%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="笔记本氮化镓电源使用指北"><a href="#笔记本氮化镓电源使用指北" class="headerlink" title="笔记本氮化镓电源使用指北"></a>笔记本氮化镓电源使用指北</h1><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><hr><p><strong>宇宙安全免责声明：擅自使用非官方配件可能存在风险，建议谨慎操作</strong> </p><hr><p>本文为联想氮化镓电源+诱骗线使用指南。</p><p>仅基于联想拯救者r9000p3070 2021进行测试，但理论面向所有笔记本。</p><h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><p>笔记本的原厂电源适配器通常傻大黑重，短途出行需携带电脑情况下，电源是个很大的负担，各大厂商均有相应的解决方案，而本文的主角是联想的c170氮化镓充电器。<br><img src="/2024/10/28/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%B0%AE%E5%8C%96%E9%95%93%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/c170.jpg" alt="c170"></p><h4 id="酷态科15号"><a href="#酷态科15号" class="headerlink" title="酷态科15号"></a>酷态科15号</h4><p>虽然性能同样优异，但不是本文的主角，这里不过多介绍，只简单讲讲优劣</p><h5 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h5><p>负载能力同样优秀</p><p>多口，3c1a的设计，更适合出行</p><p>支持pd3.1,以及其他更多协议，对手机快充友好</p><p>插脚可折叠，收纳方便</p><h5 id="劣势"><a href="#劣势" class="headerlink" title="劣势"></a>劣势</h5><p>待机功耗高，空载竟然有发热情况</p><p>给非苹果笔记本供电最高只能支持到pd3.0的100w</p><h4 id="联想c140、c170"><a href="#联想c140、c170" class="headerlink" title="联想c140、c170"></a>联想c140、c170</h4><p>相比于其他竞品，c170散热好输出稳定，能长时间满功率输出（不同室温工况表现不同），且峰值输出功率能达200w；</p><p>c140也能稳定超载到150w长时工作，且相比c170额外支持pd3.1的28V5A档位。</p><p>协议、纹波、用料拆解推荐b站电锉刀的测评</p><p><a href="https://www.bilibili.com/video/BV1Ez42117z3/?share_source=copy_web">【全网首拆】联想拯救者C170氮化镓充电头适配器评测拆解</a></p><p><a href="https://www.bilibili.com/video/BV1BL411m7X6/?share_source=copy_web">【评测拆解】联想拯救者C140充电头普及PD3.1高效AHB架构</a></p><p>价格便宜，闲鱼二手价c170仅需170左右，c140仅需100上下（24年9月）；</p><h5 id="为什么需要诱骗线"><a href="#为什么需要诱骗线" class="headerlink" title="为什么需要诱骗线"></a>为什么需要诱骗线</h5><p>联想几乎只在与充电器同年的最新款拯救者上做了适配，小新、thinkbook等系列包括其他品牌笔记本使用均不能达到理想的效果，例如笔者的2021款的拯救者使用这类充电器时，显示低功率电源接入，cpu和gpu功耗都被限制在40w以内，完全发挥不出电脑的性能。对于其他品牌电脑，诱骗线同时又充当转接头使用。</p><h5 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h5><p>白话文介绍，没有严谨依据，仅基于笔者一些浅薄的认知推测而来，如有错误欢迎指正。</p><p>以c135为例，c135的c2slim线的emark芯片接入笔记本时，向笔记本发送电源信息，笔记本接收信息确认是低功率电源，调用相应的功率分配方案，严格限制向电源索取的电流大小。诱骗线同样有emark芯片，用于伪造与原装砖头电源相同的eMark信号，笔记本认为接入的是原装电源，绕过了低功率调度。但是这引入了新的问题，高负载情况下笔记本会请求过大的电流，触发c135的过载保护机制，就需要软件限制cpu、gpu的功耗。</p><h5 id="功耗分配"><a href="#功耗分配" class="headerlink" title="功耗分配"></a>功耗分配</h5><p>gpu功耗推荐使用微星小飞机调整，cpu功耗控制只给拯救者用户推荐专用的llt（Lenovo Legion Toolkit）。</p><p>除去两大电老虎，笔记本其余部分功耗大约在25w左右，为硬盘高负载、显示器高亮等情况留足5w余量，总计30w周边功耗。</p><p>以c140为例，c140可以长时间150w超负荷输出，亲测2021款r9000p 3070可以cpu+gpu稳定25+100总共125w功率，进行35分钟烤鸡测试，未出现异常。</p><p><img src="/2024/10/28/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%B0%AE%E5%8C%96%E9%95%93%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/25w+100w.jpg" alt="25w+100w"></p><p>100w功耗的3070laptop可以发挥本身95%的性能，下图分别为满血140w和使用c140时100w的gpu blender跑分。</p><p><img src="/2024/10/28/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%B0%AE%E5%8C%96%E9%95%93%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/140w%E8%B7%91%E5%88%86.jpg" alt="140w跑分"></p><p><img src="/2024/10/28/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%B0%AE%E5%8C%96%E9%95%93%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/100w%E8%B7%91%E5%88%86.jpg" alt="100w跑分"></p><p>如此性能差距在体验3a游戏时基本没有问题，在更吃cpu性能的fps和网游中，可以选择35+90的功耗分配，实测瓦罗兰特中低画质2.5k分辨率，帧率在150-200波动，理论上已经能完全应对短期出门的需求，但实际使用中还有瑕疵。</p><p>笔记本显卡几乎无法直接设置功耗墙，只能通过调整电压&#x2F;频率曲线，拉直高频，让gpu以较低电压跑在较低频率下，但是功耗不止和电压频率相关。根据P<sub>dyn</sub> ≈ C·V<sup>2</sup>·f·α，相同的电压频率下功耗还受切换因子α和有效开关电容C影响，这里不探讨详细的逻辑，简而言之即功耗同时受负载影响，不同的游戏不同的场景，也分负载高低。要么限制电压、频率在很低的水平，要么就需要对不同的场景单独调整一份电频曲线，保证gpu功耗不会过高拉死电源，此外cpu睿频机制也可能会瞬时索取更高的功耗触发充电头的过载保护。</p><p>24的新品c170则给出完美答卷，相比c140，c170体积稍大一圈，改进了散热系统，大面积使用铜片以及石墨烯导热材料，移除了灌胶设计，体积增大重量却变轻了，同时负载能力提高了20w，能做到20+125的功耗分配。125w刚好是3070laptop的基础功耗(笔记本标称的满血140w实际上是125+15，额外的15w是向cpu动态借来的，可以用llt直接限制) ，不再需要调整电压&#x2F;频率曲线，再者c170过载保护大概在200w左右，在cpu稳定20w工作的同时有30w的余量用于短时睿频，基本解决了上代电源的所有痛点。</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>这几款充电器都十分优秀，而且差异化明显，追求稳定性能c170，有pd3.1的需求选c140，刚需多口输出选酷态科，大人才做选择，小孩子全都要。</p><p>诱骗线可以上淘宝购买，这边不放第三方店铺，只需要下单前跟客服说明需求，就能保证不会买错。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 好物推荐 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 魔改 </tag>
+            
+            <tag> GaN电源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>紫金山-阿特拉斯彗星</title>
+      <link href="/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/"/>
+      <url>/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/</url>
+      
+        <content type="html"><![CDATA[<p>拍摄于市中心九级光污染区，此时彗星早已经过近日点，逐渐远离太阳系，亮度也越来越低，峰值亮度当天长春多云，完全没法拍摄。</p><p>蹲了几天总算迎来一个大晴天，但是空气质量也一般，远处地平线上空还有霾，在太阳落山与彗星没入地平线的大约半小时空窗期，间隔拍摄了350张，取部分效果最好的用ciril堆栈得到下图效果。</p><p>拍摄过程还是比较轻松愉快的，根据肉眼可见的金星做参照物，确定彗星位置，架好相机，确认构图，手动对焦远方地平线，曝光自动，就开始间隔拍摄。</p><p><img src="/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/40mm.jpg" alt="40mm"></p><p>其余的顺手合了个延时</p><p>血的教训，拍到一半尽可能不要动光圈🤓👆，用的是佳能的一颗上古老头rf 17-40 f4 l，海鲜市场900就能拿下一颗成色较新的😋，光圈全开时画质一般，收一档会有很大改善。拍到一半想到这茬，给光圈缩到f5.6，导致画面突变，后期完效果更明显，也就是视频里画面突变的那一帧。</p><p>中途还因为太激动想回看打断了间隔拍摄🤣，也就是后面彗星闪现的那一段。</p><p><video controls preload="metadata" playsinline         style="max-width:100%;height:auto;"><br>  <source src="1.mp4" type="video/mp4"><br></video></p><p>这是早些天，用70200拍的彗星特写，彗星亮度高但是雾霾很严重🤬，堆栈后画面脏的要命，救不回来了。</p><p><img src="/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/70mm.jpg" alt="70mm"></p><p>摄友不拍延时，帮忙按的合影，天台风好大，我好害怕，10月中旬的长春，20层楼高的屋顶，会教训每一个不戴厚羽绒的小丑🥶。</p><p><img src="/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/%E5%90%88%E5%BD%B1.jpg" alt="合影"></p><p>拍摄日期是24.10.15，误入画面的应该是SpaceX的猎鹰9号火箭二级钝化火箭云👽，没有录下来比较遗憾。</p><p><img src="/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/%E7%81%AB%E7%AE%AD%E4%BA%91.jpg" alt="火箭云"></p><p><img src="/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/%E6%9C%88.jpg" alt="月"></p><p>又过了几天，想去隔壁小区楼顶找机位，给教学楼和彗星合影，可惜天台全锁死了😇，无奈用无人机应付两张。无人机的cmos实在太小，加上彗星亮度更低了，拍摄时间已经很晚，几乎不受太阳余晖影响，但效果仍不理想，全是噪点😤</p><p><img src="/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/%E5%8D%97%E6%B9%96&%E5%BD%97%E6%98%9F.jpg" alt="南湖&amp;彗星"></p><p>但是夕阳意外的好看🥰</p><p><img src="/2024/10/18/%E7%B4%AB%E9%87%91%E5%B1%B1-%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E5%BD%97%E6%98%9F/%E5%A4%9C%E6%99%AF.jpg" alt="夜景"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 摄影 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 彗星 </tag>
+            
+            <tag> 风光 </tag>
+            
+        </tags>
       
     </entry>
     

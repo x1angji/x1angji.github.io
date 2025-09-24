@@ -1,1 +1,0 @@
-!function(){const i=document.createElement("script");i.src="https://cdn.vercel-insights.com/v1/speed-insights.js",i.defer=!0,i.dataset.endpoint=window.location.origin,document.head.appendChild(i),window.si=window.si||function(){(window.siq=window.siq||[]).push(arguments)}}();

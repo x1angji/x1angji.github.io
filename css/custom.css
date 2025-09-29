@@ -1,0 +1,4 @@
+/* about页面helloAbout文字大小调整 */
+.hello-about h1 {
+    font-size: calc(0.0989119683 * 52vw + 58.5558852621px);
+}
